@@ -9,3 +9,6 @@ TILディレクトリに移動して
 `git commit -m 'メッセージ'`
 `git log`
 
+`git checkout -b ブランチ名` 新しいブランチを作り移動する
+`git branch ブランチ名` 新しいブランチを作る
+`git switch ブランチ名` ブランチに移動する
